@@ -8,8 +8,10 @@ link [https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environm
 
 
 ## Others
-- Track progress in for loop 
-  from progress.bar import Bar
-  with Bar('Processing Good...',max=len(df)) as bar:
-      for i in range(len(df)):
-          # your code 
+- Track progress in for loop \
+- pip install progress\
+  from progress.bar import Bar\
+  with Bar('Processing Good...',max=len(df)) as bar:\
+      for i in range(len(df)):\
+          # your code\
+          bar.next()
