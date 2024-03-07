@@ -1,5 +1,7 @@
 𝗹𝗲𝗮𝗿𝗻 𝗚𝗜𝗧 
 
+An interactive git tutorial meant to teach you how it works, not just which commands to execute.\
+[𝗟𝗲𝗮𝗿𝗻 𝗚𝗜𝗧 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀, 𝗻𝗼𝘁 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 
 This is a very nice article explaining how to tackle different tricky situations with GIT.\
 [𝗢𝗵 𝗦𝗵𝗶𝘁, 𝗚𝗶𝘁?!](https://ohshitgit.com/)
