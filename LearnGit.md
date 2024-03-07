@@ -1,4 +1,4 @@
-𝗹𝗲𝗮𝗿𝗻 𝗚𝗜𝗧 \
+𝗹𝗲𝗮𝗿𝗻 𝗚𝗜𝗧 
 
 
 This is a very nice article explaining how to tackle different tricky situations with GIT.\
