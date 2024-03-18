@@ -1,2 +1,2 @@
 # DailyEssentails
-Adding code snippet needed in day to day coding
+Adding code snippet and links to tools needed in day to day coding
